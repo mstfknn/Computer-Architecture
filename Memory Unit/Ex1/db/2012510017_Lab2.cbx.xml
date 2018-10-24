@@ -1,0 +1,6 @@
+<?xml version="1.0" ?>
+<LOG_ROOT>
+	<PROJECT NAME="2012510017_Lab2">
+		<CBX_INST_ENTRY INSTANCE_NAME="|2012510017_Lab2|RAM:inst1|altsyncram:altsyncram_component" CBX_FILE_NAME="altsyncram_ebi1.tdf"/>
+	</PROJECT>
+</LOG_ROOT>

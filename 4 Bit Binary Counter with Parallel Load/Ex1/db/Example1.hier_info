@@ -1,0 +1,30 @@
+|Example1
+Q0 <= inst1.DB_MAX_OUTPUT_PORT_TYPE
+D0 => inst25.IN0
+D0 => inst.IN0
+Load => inst13.IN1
+Load => inst24.IN0
+Load => inst.IN1
+Load => inst14.IN1
+Load => inst15.IN1
+Load => inst17.IN1
+Load => inst16.IN1
+Load => inst19.IN1
+Load => inst18.IN1
+count => inst23.IN0
+clock => inst1.CLK
+clock => inst2.CLK
+clock => inst3.CLK
+clock => inst4.CLK
+Q1 <= inst2.DB_MAX_OUTPUT_PORT_TYPE
+D1 => inst26.IN0
+D1 => inst15.IN0
+Q2 <= inst3.DB_MAX_OUTPUT_PORT_TYPE
+D2 => inst27.IN0
+D2 => inst16.IN0
+Q3 <= inst4.DB_MAX_OUTPUT_PORT_TYPE
+D3 => inst28.IN0
+D3 => inst18.IN0
+CO <= inst29.DB_MAX_OUTPUT_PORT_TYPE
+
+

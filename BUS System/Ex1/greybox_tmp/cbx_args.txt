@@ -1,0 +1,12 @@
+LPM_DECODES=4
+LPM_PIPELINE=1
+LPM_TYPE=LPM_DECODE
+LPM_WIDTH=2
+DEVICE_FAMILY="Cyclone III"
+aclr
+clock
+data
+eq
+eq
+eq
+eq

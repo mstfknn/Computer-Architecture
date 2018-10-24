@@ -1,0 +1,12 @@
+<?xml version="1.0" ?>
+<LOG_ROOT>
+	<PROJECT NAME="bussystem">
+		<CBX_INST_ENTRY INSTANCE_NAME="|bussystem|muxxx:inst1|LPM_MUX:LPM_MUX_component" CBX_FILE_NAME="mux_c6e.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|bussystem|reg:A|lpm_counter:LPM_COUNTER_component" CBX_FILE_NAME="cntr_h0k.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|bussystem|reg:C|lpm_counter:LPM_COUNTER_component" CBX_FILE_NAME="cntr_h0k.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|bussystem|dec:inst4|lpm_decode:LPM_DECODE_component" CBX_FILE_NAME="decode_0af.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|bussystem|muxx:inst|LPM_MUX:LPM_MUX_component" CBX_FILE_NAME="mux_f6e.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|bussystem|reg:B|lpm_counter:LPM_COUNTER_component" CBX_FILE_NAME="cntr_h0k.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|bussystem|reg:D|lpm_counter:LPM_COUNTER_component" CBX_FILE_NAME="cntr_h0k.tdf"/>
+	</PROJECT>
+</LOG_ROOT>
